@@ -1,83 +1,83 @@
-<link rel="stylesheet" href="https://cdn.datatables.net/2.0.5/css/dataTables.dataTables.min.css"/>
+<title>Mental Health Book List</title>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.5/css/dataTables.dataTables.min.css" />
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdn.datatables.net/2.0.5/js/dataTables.min.js"></script>
 
 <script>
-$(document).ready(function() {
-    var data = [
-        {
-            "Topic": "Fantasy",
-            "Picture": "https://example.com/image1.jpg",
-            "Link to GoodReads": "https://www.goodreads.com/book/show/12345678",
-            "Title": "The Great Adventure",
-            "Author": "John Doe",
-            "Brief Synopsis": "An epic journey across magical lands.",
-            "Age Range": "12-18",
-            "Language": "English",
-            "Number of Times Recommended": "5",
-            "Who Recommended": "Alice Johnson"
-        },
-        {
-            "Topic": "Science Fiction",
-            "Picture": "https://example.com/image2.jpg",
-            "Link to GoodReads": "https://www.goodreads.com/book/show/87654321",
-            "Title": "Tomorrow's Edge",
-            "Author": "Jane Smith",
-            "Brief Synopsis": "A tale of technology and the future of humanity.",
-            "Age Range": "15+",
-            "Language": "English",
-            "Number of Times Recommended": "8",
-            "Who Recommended": "Bob Smith"
-        },
-        {
-            "Topic": "Historical Fiction",
-            "Picture": "https://example.com/image3.jpg",
-            "Link to GoodReads": "https://www.goodreads.com/book/show/11223344",
-            "Title": "Echoes of the Past",
-            "Author": "Emma Brown",
-            "Brief Synopsis": "A deep dive into historical events through a personal lens.",
-            "Age Range": "Adult",
-            "Language": "English",
-            "Number of Times Recommended": "3",
-            "Who Recommended": "Clara Oswald"
-        }
-    ];
-
-    $('#myTable').DataTable({
-        data: data,
-        columns: [
-            { data: 'Topic' },
-            { data: 'Picture', render: function(data, type, row) {
-                return data ? '<img src="' + data + '" style="width:100px; height:auto;">' : '';
-            }},
-            { data: 'Link to GoodReads', render: function(data, type, row) {
-                return data ? '<a href="' + data + '" target="_blank">Link</a>' : '';
-            }},
-            { data: 'Title' },
-            { data: 'Author' },
-            { data: 'Brief Synopsis' },
-            { data: 'Age Range' },
-            { data: 'Language' },
-            { data: 'Number of Times Recommended' },
-            { data: 'Who Recommended' }
-        ]
+    $(document).ready(function () {
+        fetch('./data/books.json')
+            .then(response => response.json())
+            .then(data => {
+                $('#myTable').DataTable({
+                    data: data,
+                    columns: [
+                        {
+                            data: 'Topic', render: function (data, type, row) {
+                                if (Array.isArray(data) && data.length > 0) {
+                                    return data.join(', ');
+                                } else {
+                                    return '';
+                                }
+                            }
+                        },
+                        {
+                            data: 'Picture', render: function (data, type, row) {
+                                return data ? '<img src="' + data + '" style="width:100px; height:auto;">' : '';
+                            }
+                        },
+                        {
+                            data: 'Title', render: function (data, type, row) {
+                                return data ? '<a href="' + row['Link to GoodReads'] + '" target="_blank">' + data : '';
+                            }
+                        },
+                        { data: 'Author' },
+                        {
+                            data: 'Age Range', render: function (data, type, row) {
+                                if (Array.isArray(data) && data.length > 0) {
+                                    return data[0] + ' - ' + data[data.length - 1];
+                                } else {
+                                    return '';
+                                }
+                            }
+                        },
+                        {
+                            data: 'Language', render: function (data, type, row) {
+                                if (Array.isArray(data) && data.length > 0) {
+                                    return data.join(', ');
+                                } else {
+                                    return '';
+                                }
+                            }
+                        },
+                        { data: 'Number of Times Recommended' },
+                        {
+                            data: 'Who Recommended', render: function (data, type, row) {
+                                if (Array.isArray(data) && data.length > 0) {
+                                    return data.join(', ');
+                                } else {
+                                    return '';
+                                }
+                            }
+                        }
+                    ]
+                });
+            })
+            .catch(error => console.error('Error fetching data:', error));
     });
-});
+
 </script>
 
 <table id="myTable" class="display">
     <thead>
-    <tr>
-        <th>Topic</th>
-        <th>Picture</th>
-        <th>Link to GoodReads</th>
-        <th>Title</th>
-        <th>Author</th>
-        <th>Brief Synopsis</th>
-        <th>Age Range</th>
-        <th>Language</th>
-        <th># of Times Recommended</th>
-        <th>Who Recommended</th>
-    </tr>
+        <tr>
+            <th>Topic</th>
+            <th>Picture</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Age Range</th>
+            <th>Language</th>
+            <th>Number of Times Recommended</th>
+            <th>Who Recommended</th>
+        </tr>
     </thead>
 </table>
