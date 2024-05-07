@@ -9,6 +9,9 @@ new DataTable('#myTable', {
                 orderable: false,
                 collapse: false,
             }
+        },
+        topStart: {
+            buttons: ['copy', 'csv', 'excel', 'pdf', 'print']
         }
     },
     //data section
