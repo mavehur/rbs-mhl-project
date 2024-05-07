@@ -11,7 +11,8 @@ new DataTable('#myTable', {
             }
         },
         topStart: {
-            buttons: ['copy', 'csv', 'excel', 'pdf', 'print']
+            //TODO: add 'pdf'. currently it's not working
+            buttons: ['copy', 'csv', 'excel', 'print']
         }
     },
     //data section
@@ -22,6 +23,6 @@ new DataTable('#myTable', {
             },
             targets: [0, 4, 6, 7, 8, 9] //search category
         }
-    ]
-
+    ],
+    stateSave: true,
 });
