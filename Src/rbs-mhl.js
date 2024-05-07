@@ -8,6 +8,11 @@ new DataTable('#myTable', {
                 viewCount: false,
                 orderable: false,
                 collapse: false,
+                dtOpts:{
+                    select:{
+                        style: 'multi'
+                    }
+                }
             }
         },
         topStart: {
@@ -25,4 +30,6 @@ new DataTable('#myTable', {
         }
     ],
     stateSave: true,
+
 });
+
