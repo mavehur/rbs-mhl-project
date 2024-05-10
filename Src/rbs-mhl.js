@@ -1,30 +1,35 @@
 new DataTable('#myTable', {
-    initComplete: function () {
-        this.api()
-            .columns()
-            .every(function () {
-                let column = this;
+    //filtering section
+    layout: {
+        top1: {
+            searchPanes: {
+                cascadePanes: true, //panes to be filtered based on the values selected in the other panes.
+                columns: [0, 6, 9, 4, 7, 8],
+                viewCount: false,
+                orderable: false,
+                collapse: false,
+                dtOpts:{
+                    select:{
+                        style: 'multi'
+                    }
+                }
+            }
+        },
+        topStart: {
+            //TODO: add 'pdf'. currently it's not working
+            buttons: ['copy', 'csv', 'excel', 'print']
+        }
+    },
+    //data section
+    columnDefs: [
+        {
+            searchPanes: {
+                show: true,
+            },
+            targets: [0, 4, 6, 7, 8, 9] //search category
+        }
+    ],
+    stateSave: true,
 
-                // Create select element
-                let select = document.createElement('select');
-                select.add(new Option(''));
-                column.footer().replaceChildren(select);
-
-                // Apply listener for user change in value
-                select.addEventListener('change', function () {
-                    column
-                        .search(select.value, {exact: true})
-                        .draw();
-                });
-
-                // Add list of options
-                column
-                    .data()
-                    .unique()
-                    .sort()
-                    .each(function (d, j) {
-                        select.add(new Option(d));
-                    });
-            });
-    }
 });
+
