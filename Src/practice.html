@@ -5,7 +5,7 @@
 
 <script>
     $(document).ready(function () {
-        fetch('./data/books.json')
+        fetch('./assets\\data\\books.json')
             .then(response => response.json())
             .then(data => {
                 $('#myTable').DataTable({
@@ -27,7 +27,7 @@
                         },
                         {
                             data: 'Title', render: function (data, type, row) {
-                                return data ? '<a href="' + row['Link to GoodReads'] + '" target="_blank">' + data : '';
+                                return data ? data + ' ' + '<a href="' + row['Link to GoodReads'] + '" target="_blank">' + '<img src="./assets\\images\\greads_icon.png" width="20" height="20">' : '';
                             }
                         },
                         { data: 'Author' },
