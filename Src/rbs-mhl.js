@@ -1,3 +1,14 @@
+function format(d) {
+    return (
+        '<dl>' +
+        '<dt>Brief Synopsis:</dt>' +
+        '<dd>' +
+        d.brief_synopsis +
+        '</dd>' +
+        '</dl>'
+    );
+}
+
 $(document).ready(function () {
     fetch('./assets\\data\\books.json')
     .then(response => {
@@ -7,10 +18,16 @@ $(document).ready(function () {
         return response.json();
     })
     .then(data => {
-        $('#myTable').DataTable({
+        let table = new DataTable('#myTable', {
             data: data,
             dom: 'PBfrtip',
             columns: [
+                {
+                    className: 'dt-control',
+                    orderable: false,
+                    data: null,
+                    defaultContent: ''
+                },
                {
                     data: 'Topic', render: function (data, type, row) {
                         if (Array.isArray(data) && data.length > 0) {
@@ -55,11 +72,12 @@ $(document).ready(function () {
                     }
                 }
             ],
+            order: [[1, 'asc']],
             //filtering section
             layout: {
                 top1: {
                     searchPanes: {
-                        columns: [0, 2, 3, 4, 5, 6],
+                        columns: [1, 3, 4, 5, 6, 7],
                     }
                 },
                 topStart: {
@@ -73,7 +91,7 @@ $(document).ready(function () {
                     searchPanes: {
                         cascadePanes: true, //panes to be filtered based on the values selected in the other panes.
                         show: true,
-                        viewCount: false,
+                        viewCount: true,
                         orderable: false,
                         collapse: false,
                         dtOpts:{
@@ -82,13 +100,25 @@ $(document).ready(function () {
                             }
                         }
                     },
-                    targets: [0, 2, 3, 4, 5, 6] //search category
+                    targets: [1, 3, 4, 5, 6, 7] //search category
                 }
             ],
             stateSave: true,
+        });
+        table.on('click', 'td.dt-control', function (e) {
+            let tr = e.target.closest('tr');
+            let row = table.row(tr);
+
+            if (row.child.isShown()) {
+                row.child.hide();
+            }
+            else {
+                row.child(format(row.data())).show();
+            }
         });
     })
     .catch(error => {
         console.error('Error fetching data:', error);
     });
 });
+
