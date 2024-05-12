@@ -10,7 +10,9 @@ function format(d) {
 }
 
 $(document).ready(function () {
-    fetch('./assets\\data\\books.json')
+//    fetch('./assets\\data\\books.json')
+    //TODO: Change URL after merge to main
+    fetch('https://raw.githubusercontent.com/mavehur/rbs-mhl-project/mh/search-pane/Src/assets/data/books.json')
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
@@ -93,7 +95,6 @@ $(document).ready(function () {
                         show: true,
                         viewCount: true,
                         orderable: false,
-                        collapse: false,
                         dtOpts:{
                             select:{
                                 style: 'multi'
