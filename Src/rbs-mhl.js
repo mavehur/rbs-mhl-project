@@ -31,7 +31,7 @@ $(document).ready(function () {
                     defaultContent: ''
                 },
                {
-                    data: 'Topic', render: function (data, type, row) {
+                    data: 'topic', render: function (data, type, row) {
                         if (Array.isArray(data) && data.length > 0) {
                             return data.join(', ');
                         } else {
@@ -40,13 +40,13 @@ $(document).ready(function () {
                     }
                 },
                 {
-                    data: 'Title', render: function (data, type, row) {
+                    data: 'title', render: function (data, type, row) {
                         return data ? data + ' ' + '<a href="' + row['Link to GoodReads'] + '" target="_blank">' + '<img src="./assets\\images\\greads_icon.png" width="20" height="20">' : '';
                     }
                 },
-                { data: 'Author' },
+                { data: 'author' },
                 {
-                    data: 'Age Range', render: function (data, type, row) {
+                    data: 'age_range', render: function (data, type, row) {
                         if (Array.isArray(data) && data.length > 0) {
                             return data[0] + ' - ' + data[data.length - 1];
                         } else {
@@ -55,7 +55,7 @@ $(document).ready(function () {
                     }
                 },
                 {
-                    data: 'Language', render: function (data, type, row) {
+                    data: 'language', render: function (data, type, row) {
                         if (Array.isArray(data) && data.length > 0) {
                             return data.join(', ');
                         } else {
@@ -63,9 +63,9 @@ $(document).ready(function () {
                         }
                     }
                 },
-                { data: 'Number of Times Recommended' },
+                { data: 'number_of_times_recommended' },
                 {
-                    data: 'Who Recommended', render: function (data, type, row) {
+                    data: 'who_recommended', render: function (data, type, row) {
                         if (Array.isArray(data) && data.length > 0) {
                             return data.join(', ');
                         } else {
