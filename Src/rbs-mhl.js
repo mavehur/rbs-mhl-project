@@ -31,46 +31,66 @@ $(document).ready(function () {
                     defaultContent: ''
                 },
                {
-                    data: 'topic', render: function (data, type, row) {
-                        if (Array.isArray(data) && data.length > 0) {
-                            return data.join(', ');
-                        } else {
-                            return '';
-                        }
+                    data: 'topic',
+                    render: {
+                        _: '[, ]',
+                        sp: '[]'
+                    },
+                    searchPanes: {
+                        orthogonal: 'sp'
                     }
                 },
                 {
                     data: 'title', render: function (data, type, row) {
-                        return data ? data + ' ' + '<a href="' + row['Link to GoodReads'] + '" target="_blank">' + '<img src="./assets\\images\\greads_icon.png" width="20" height="20">' : '';
+                        return data ? data + ' ' + '<a href="' + row['link_to_good_reads'] + '" target="_blank">' + '<img src="./assets\\images\\greads_icon.png" width="20" height="20">' : '';
                     }
                 },
-                { data: 'author' },
+                {   data: 'author',
+                    render: {
+                        _: '[, ]',
+                        sp: '[]'
+                    },
+                    searchPanes: {
+                        orthogonal: 'sp'
+                    }
+
+                },
                 {
-                    data: 'age_range', render: function (data, type, row) {
-                        if (Array.isArray(data) && data.length > 0) {
-                            return data[0] + ' - ' + data[data.length - 1];
-                        } else {
-                            return '';
-                        }
+//                    data: 'age_range', render: function (data, type, row) {
+//                        if (Array.isArray(data) && data.length > 0) {
+//                            return data[0] + ' - ' + data[data.length - 1];
+//                        } else {
+//                            return '';
+//                        }
+//                    }
+                    data: 'age_range',
+                    render: {
+                        _: '[, ]',
+                        sp: '[]'
+                    },
+                    searchPanes: {
+                        orthogonal: 'sp'
                     }
                 },
                 {
-                    data: 'language', render: function (data, type, row) {
-                        if (Array.isArray(data) && data.length > 0) {
-                            return data.join(', ');
-                        } else {
-                            return '';
-                        }
+                    data: 'language',
+                    render: {
+                        _: '[, ]',
+                        sp: '[]'
+                    },
+                    searchPanes: {
+                        orthogonal: 'sp'
                     }
                 },
                 { data: 'number_of_times_recommended' },
                 {
-                    data: 'who_recommended', render: function (data, type, row) {
-                        if (Array.isArray(data) && data.length > 0) {
-                            return data.join(', ');
-                        } else {
-                            return '';
-                        }
+                    data: 'who_recommended',
+                    render: {
+                        _: '[, ]',
+                        sp: '[]'
+                    },
+                    searchPanes: {
+                        orthogonal: 'sp'
                     }
                 }
             ],
@@ -99,7 +119,7 @@ $(document).ready(function () {
                             select:{
                                 style: 'multi'
                             }
-                        }
+                        },
                     },
                     targets: [1, 3, 4, 5, 6, 7] //search category
                 }
