@@ -122,7 +122,9 @@ $(document).ready(function () {
                                 }
                             },
                         },
-                        targets: [1, 3, 4, 5, 6, 7] //search category
+                        targets: [1, 3, 4, 5, 6, 7],
+
+                        width: "10%", targets: [6],
                     }
                 ],
                 stateSave: true,
