@@ -42,7 +42,7 @@ $(document).ready(function () {
                     },
                     {
                         data: 'title', render: function (data, type, row) {
-                            return data ? data + ' ' + '<a href="' + row['link_to_good_reads'] + '" target="_blank">' + '<img src="./assets\\images\\greads_icon.png" width="20" height="20">' : '';
+                            return data ? data + ' ' + '<a href="' + row['link_to_good_reads'] + '" target="_blank">' + '<img src="https://lh3.googleusercontent.com/d/11xaDqi2Q3MfqWb18vAlJ_VB8Fy1eQ0_1?authuser=0" width = 20>' : '';
                         }
                     },
                     {
