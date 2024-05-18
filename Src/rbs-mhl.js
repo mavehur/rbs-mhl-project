@@ -96,34 +96,16 @@ $(document).ready(function () {
             ],
             order: [[1, 'asc']],
             //filtering section
-            layout: {
-                top1: {
-                    searchPanes: {
-                        columns: [1, 3, 4, 5, 6, 7],
+            searchPanes: {
+                cascadePanes: true, //panes to be filtered based on the values selected in the other panes.
+                columns: [1, 3, 4, 5, 6, 7],
+                dtOpts: {
+                    select: {
+                        style: 'multi'
                     }
-                },
-                topStart: {
-                    //TODO: add 'pdf'. currently it's not working
-                    buttons: ['copy', 'csv', 'excel', 'print']
                 }
             },
-            //data section
-            columnDefs: [
-                {
-                    searchPanes: {
-                        cascadePanes: true, //panes to be filtered based on the values selected in the other panes.
-                        show: true,
-                        viewCount: true,
-                        orderable: false,
-                        dtOpts:{
-                            select:{
-                                style: 'multi'
-                            }
-                        },
-                    },
-                    targets: [1, 3, 4, 5, 6, 7] //search category
-                }
-            ],
+            buttons: ['copy', 'csv', 'excel', 'print'],
             stateSave: true,
         });
         table.on('click', 'td.dt-control', function (e) {
