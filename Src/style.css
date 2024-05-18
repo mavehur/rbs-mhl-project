@@ -15,6 +15,7 @@ body {
 
 .dt-search {
     padding: 0.5em;
+    text-align: right;
 }
 
 .dt-info {
