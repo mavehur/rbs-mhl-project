@@ -1,13 +1,13 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "topic": [
-      "Boundaries"
+      "Boundaries "
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/en/book/show/5621363",
     "title": "I Said No! A Kid-to-Kid Guide to Keeping Private Parts Private",
-    "author": ["Zach", "Kimberly King"],
+    "author": [
+      "Zach and Kimberly King"
+    ],
     "brief_synopsis": "This clever book helps kids understand boundaries, using “red flag” and “green flag” terminology. “It reviews a lot of classic scenarios in simple language,” says an expert from the Child Mind Institute.",
     "age_range": [
       4,
@@ -25,15 +25,15 @@
     ]
   },
   {
-    "id": "2",
+    "id": 2,
     "topic": [
       "ADHD"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/661896.Cory_Stories?from_search=true&from_srp=true&qid=mSC4O7WmPl&rank=1",
-    "title": "Cory Stories: A Kid's Book About Living With ADHD",
-    "author": ["Jeanne Kraus"],
-    "brief_synopsis": "Cory tells readers about himself in this picture book with black-and-white illustrations. Cory says that sometimes kids make fun of him and he isn't sure why. 'Sometimes my whole body falls off the chair!' But readers also learn that Cory has persevered, concentrating in karate class, making friends at bowling club, and helping other kids with math. The important parting message: 'Nobody needs to be good at everything. But I found out that I am good at a lot of things.'",
+    "title": "Cory Stories: A Kid’s Book About Living With ADHD",
+    "author": [
+      "Jeanne Kraus"
+    ],
+    "brief_synopsis": "Cory tells readers about himself in this picture book with black-and-white illustrations. Cory says that sometimes kids make fun of him and he isn’t sure why. “Sometimes my whole body falls off the chair!” But readers also learn that Cory has persevered, concentrating in karate class, making friends at bowling club, and helping other kids with math. The important parting message: “Nobody needs to be good at everything. But I found out that I am good at a lot of things.”",
     "age_range": [
       6,
       7,
@@ -51,15 +51,15 @@
     ]
   },
   {
-    "id": "3",
+    "id": 3,
     "topic": [
       "ADHD"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/50683899-my-life-with-adhd?from_search=true&from_srp=true&qid=3ZhPcNROnM&rank=1",
     "title": "My Life with ADHD",
-    "author": ["Mari Schuh"],
-    "brief_synopsis": "In a warm and friendly way, Annabelle, a real girl from Long Island, New York, explains how ADHD affects her. She talks about symptoms, medication, and helpful strategies. She reassures readers that 'ADHD doesn't stop me from doing most things.' For instance, Annabelle is a Girl Scout and loves to swim and run. 'The book has good visuals too,' adds an expert from the Child Mind Institute.",
+    "author": [
+      "Mari Schuh"
+    ],
+    "brief_synopsis": "In a warm and friendly way, Annabelle, a real girl from Long Island, New York, explains how ADHD affects her. She talks about symptoms, medication, and helpful strategies. She reassures readers that “ADHD doesn’t stop me from doing most things.” For instance, Annabelle is a Girl Scout and loves to swim and run. “The book has good visuals too,” adds an expert from the Child Mind Institute",
     "age_range": [
       6,
       7,
@@ -67,7 +67,8 @@
       9
     ],
     "language": [
-      "English", "Spanish"
+      "English",
+      "Spanish"
     ],
     "number_of_times_recommended": 1,
     "who_recommended": [
@@ -75,15 +76,15 @@
     ]
   },
   {
-    "id": "4",
+    "id": 4,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/59863734-a-case-of-the-zaps?ref=nav_sb_ss_1_18",
     "title": "A Case of the Zaps",
-    "author": ["Alex Boniello", "April Lavalle"],
-    "brief_synopsis": "A story of a kid robot who sometimes gets 'the zaps' provides a clever way to introduce the concept of anxiety to kids, as well as ways to manage it. 'This playful story is perfect for families looking to start open conversations about anxiety with their children while also normalizing the sensation of other emotions that come along with it,' says an expert from the Child Mind Institute.",
+    "author": [
+      "Alex Boniello and April Lavalle"
+    ],
+    "brief_synopsis": "A story of a kid robot who sometimes gets “the zaps” provides a clever way to introduce the concept of anxiety to kids, as well as ways to manage it. “This playful story is perfect for families looking to start open conversations about anxiety with their children while also normalizing the sensation of other emotions that come along with it,” says an expert from the Child Mind Institute.",
     "age_range": [
       4,
       5,
@@ -100,15 +101,15 @@
     ]
   },
   {
-    "id": "5",
+    "id": 5,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/29892594-don-t-feed-the-worrybug?from_search=true&from_srp=true&qid=CKmLgp38AH&rank=1",
-    "title": "Don't Feed the WorryBug",
-    "author": ["Andi Green"],
-    "brief_synopsis": "In this whimsical rhyming book, Wince, the monster of worries, learns that the more he worries, the more the pesky WorryBug grows. Eventually the WorryBug grows so big that it can't be ignored, and Wince knows he needs to do something. The book does a good job of illustrating how anxiety can become overwhelming and teaches kids how they can take charge of their anxiety.",
+    "title": "Don’t Feed the WorryBug",
+    "author": [
+      "Andi Green"
+    ],
+    "brief_synopsis": "In this whimsical rhyming book, Wince, the monster of worries, learns that the more he worries, the more the pesky WorryBug grows. Eventually the WorryBug grows so big that it can’t be ignored, and Wince knows he needs to do something. The book does a good job of illustrating how anxiety can become overwhelming and teaches kids how they can take charge of their anxiety.",
     "age_range": [
       3,
       4,
@@ -126,15 +127,15 @@
     ]
   },
   {
-    "id": "6",
+    "id": 6,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/60740653-ellie-on-the-mat?from_search=true&from_srp=true&qid=le1jwI0NRK&rank=1",
     "title": "Ellie on the Mat",
-    "author": ["Danielle Marie Price"],
-    "brief_synopsis": "One day, Ellie was feeling too grumpy to eat pancakes. Her mom says, 'That happens sometimes' and gets a yoga mat out of the closet. Ellie and her mom do various yoga poses and breathing exercises. Then it's pancake time! 'A good introduction to mindfulness and yoga, this book highlights how trying something new can improve feelings,' says an expert from the Child Mind Institute.",
+    "author": [
+      "Danielle Marie Price"
+    ],
+    "brief_synopsis": "One day, Ellie was feeling too grumpy to eat pancakes. Her mom says, “That happens sometimes” and gets a yoga mat out of the closet. Ellie and her mom do various yoga poses and breathing exercises. Then it’s pancake time! “A good introduction to mindfulness and yoga, this book highlights how trying something new can improve feelings,” says an expert from the Child Mind Institute.",
     "age_range": [
       4,
       5,
@@ -151,15 +152,15 @@
     ]
   },
   {
-    "id": "7",
+    "id": 7,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/60245191-hattie-harmony?from_search=true&from_srp=true&qid=8Rew8KgtvK&rank=1",
     "title": "Hattie Harmony: Worry Detective",
-    "author": ["Elizabeth Olsen", "Robbie Arnett"],
-    "brief_synopsis": "In this helpful story to read before the first day of school, a cat detective gives her classmates smart advice about how to overcome their anxieties. For instance, when a fellow student tells Hattie that he's nervous about standing up in front of the class, she pulls a squishy ball out of her Worry Detective Tool Belt. Hattie uses her toolkit to playfully demonstrate useful strategies like 'movement activities, tensing and releasing muscles, coping self-talk, and mindful breathing,' says an expert from the Child Mind Institute.",
+    "author": [
+      "Elizabeth Olsen and Robbie Arnett"
+    ],
+    "brief_synopsis": "In this helpful story to read before the first day of school, a cat detective gives her classmates smart advice about how to overcome their anxieties. For instance, when a fellow student tells Hattie that he’s nervous about standing up in front of the class, she pulls a squishy ball out of her Worry Detective Tool Belt. Hattie uses her toolkit to playfully demonstrate useful strategies like “movement activities, tensing and releasing muscles, coping self-talk, and mindful breathing,” says an expert from the Child Mind Institute.",
     "age_range": [
       4,
       5,
@@ -176,15 +177,15 @@
     ]
   },
   {
-    "id": "8",
+    "id": 8,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/39653385-hector-s-favorite-place?from_search=true&from_srp=true&qid=d9tsGOpSwq&rank=1",
-    "title": "Hector's Favorite Place",
-    "author": ["Jo Rooks"],
-    "brief_synopsis": "A cute hedgehog turns down ice-skating and playing in the snow with his animal friends because of his worries. 'What if he had forgotten how to skate? He could fall and hurt himself.' When Hector receives a fun invitation to the Winter Forest Party, he hesitates for a while, and then realizes that he has to be brave. 'It's an adorable story,' says an expert at the Child Mind Institute. 'I like that Hector does a little more, and then a little more, and so on.'",
+    "title": "Hector’s Favorite Place",
+    "author": [
+      "Jo Rooks"
+    ],
+    "brief_synopsis": "A cute hedgehog turns down ice-skating and playing in the snow with his animal friends because of his worries. “What if he had forgotten how to skate? He could fall and hurt himself.” When Hector receives a fun invitation to the Winter Forest Party, he hesitates for a while, and then realizes that he has to be brave. “It’s an adorable story,” says an expert at the Child Mind Institute. “I like that Hector does a little more, and then a little more, and so on.”",
     "age_range": [
       4,
       5,
@@ -201,15 +202,15 @@
     ]
   },
   {
-    "id": "9",
+    "id": 9,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/39315878-how-big-are-your-worries-little-bear?from_search=true&from_srp=true&qid=C7Kw3rjIFl&rank=1",
     "title": "How Big Are Your Worries Little Bear?",
-    "author": ["Jayneen Sanders"],
-    "brief_synopsis": "Anxious about school, soccer practice, and monsters under his bed, baby bear worried day and night, despite his family telling him to stop worrying. But when his mom began encouraging him to talk about and even draw out his worries, the feelings began to subside. 'I like that the book emphasizes the importance of sharing your thoughts and feelings,' says an expert at the Child Mind Institute. Another plus: The book suggests questions that you can ask your child as you're reading together.",
+    "author": [
+      "Jayneen Sanders"
+    ],
+    "brief_synopsis": "Anxious about school, soccer practice, and monsters under his bed, baby bear worried day and night, despite his family telling him to stop worrying. But when his mom began encouraging him to talk about and even draw out his worries, the feelings began to subside. “I like that the book emphasizes the importance of sharing your thoughts and feelings,” says an expert at the Child Mind Institute. Another plus: The book suggests questions that you can ask your child as you’re reading together.",
     "age_range": [
       6,
       7,
@@ -226,14 +227,14 @@
     ]
   },
   {
-    "id": "10",
+    "id": 10,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/38749455-pilar-s-worries?from_search=true&from_srp=true&qid=Kql7V0qWvf&rank=1",
-    "title": "Pilar's Worries",
-    "author": ["Victoria M. Sanchez"],
+    "title": "Pilar’s Worries",
+    "author": [
+      "Victoria M. Sanchez"
+    ],
     "brief_synopsis": "In this new picture book, Pilar lives and breathes ballet — she even does pliés while brushing her teeth. But auditioning for the winter ballet performance makes her feel scared, and she almost doesn’t go. By using smart coping techniques, like positive thinking and talking with her friends, she’s able to overcome her fears. Bravo!",
     "age_range": [
       4,
@@ -251,15 +252,15 @@
     ]
   },
   {
-    "id": "11",
+    "id": 11,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/42972052-ruby-finds-a-worry?from_search=true&from_srp=true&qid=zPX96yOubU&rank=1",
     "title": "Ruby Finds a Worry",
-    "author": ["Tom Percival"],
-    "brief_synopsis": "This brilliantly illustrated story stands out for helping kids visualize anxiety and see how it grows. While playing at the park, Ruby discovers a worry — it’s depicted as a yellow blob with googly eyes that starts out small but gets bigger and bigger. Eventually, it stops her from doing the things she loves and she can’t stop thinking about it. But when she sees a boy sitting on a park bench next to a worry of his own, she starts to talk to him. Then both of their worries begin to fade. “Kids can easily identify with the images and simple storyline,” says an expert from the Child Mind Institute. Another notes that the story helps kids realize that everyone worries sometimes and encourages them to talk about their feelings.",
+    "author": [
+      "Tom Percival"
+    ],
+    "brief_synopsis": "This brilliantly illustrated story stands out for helping kids visualize anxiety and see how it grows. While playing at the park, Ruby discovers a worry — it’s depicted as a yellow blob with googly eyes that starts out small but gets bigger and bigger. Eventually, it stops her from doing the things she loves and she can’t stop thinking about it. But when she sees a boy sitting on a park bench next to a worry of his own, she starts to talk to him. Then both of their worries begin to fade. “Kids can easily identify with the imand simple storyline,” says an expert from the Child Mind Institute. Another notes that the story helps kids realize that everyone worries sometimes and encourthem to talk about their feelings.",
     "age_range": [
       4,
       5,
@@ -276,15 +277,15 @@
     ]
   },
   {
-    "id": "12",
+    "id": 12,
     "topic": [
       "Anxiety/Worry"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/333016.What_to_Do_When_You_Worry_Too_Much?from_search=true&from_srp=true&qid=PFhY7Lj2hN&rank=1",
-    "title": "What to Do When You Worry Too Much: A Kid's Guide to Overcoming Anxiety",
-    "author": ["Dawn Huebner"],
-    "brief_synopsis": "Designed for kids and parents to read together, this nine-chapter behavior therapy workbook covers topics like “How Do Worries Get Started?” and “Keeping Worries Away.” Suggestions include relaxation exercises and setting up a designated “Worry Time.” Several pages encourage kids to draw or write about their worries. The brilliant final page requests that kids draw a picture of themselves without worries.",
+    "title": "What to Do When You Worry Too Much: A Kid’s Guide to Overcoming Anxiety",
+    "author": [
+      "Dawn Huebner"
+    ],
+    "brief_synopsis": "Designed for kids and parents to read together, this nine-chapter behavior therapy workbook covers topics like “How Do Worries Get Started?” and “Keeping Worries Away.” Suggestions include relaxation exercises and setting up a designated “Worry Time.” Several pencourage kids to draw or write about their worries. The brilliant final page requests that kids draw a picture of themselves without worries.",
     "age_range": [
       6,
       7,
@@ -303,17 +304,14 @@
     ]
   },
   {
-    "id": "13",
+    "id": 13,
     "topic": [
       "Autism"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/18527641-armond-goes-to-a-party?from_search=true&from_srp=true&qid=qQDPPHFyWa&rank=1",
-    "title": "Armond Goes to a Party: A Book About Asperger's and Friendship",
-    "language": [
-      "English"
+    "title": "Armond Goes to a Party: A Book About Asperger’s and Friendship",
+    "author": [
+      "Nancy Carlson and Armond Isaak"
     ],
-    "author": ["Nancy Carlson", "Armond Isaak"],
     "brief_synopsis": "Co-written by a boy with Asperger’s, this picture book “gives a simple understanding of why children with Asperger’s struggle to attend parties, and talks about the importance of learning flexibility,” says an expert at the Child Mind Institute. (For more about the term Asperger’s and its relationship to autism, see our guide to autism terminology.) Readers may relate to Armond’s fear of balloons popping and not being able to think of anything to say. In the end, Armond admits to his mom that the party was hard, but he’s glad he went. ",
     "age_range": [
       4,
@@ -322,23 +320,23 @@
       7,
       8
     ],
+    "language": [
+      null
+    ],
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
     ]
   },
   {
-    "id": "14",
+    "id": 14,
     "topic": [
       "Autism"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/30653731-a-boy-called-bat?from_search=true&from_srp=true&qid=sRsB2N8EL9&rank=1",
     "title": "A Boy Called Bat",
-    "language": [
-      "English"
+    "author": [
+      "Elana K. Arnold"
     ],
-    "author": ["Elana K. Arnold"],
     "brief_synopsis": "On the surface, it’s a sweet boy-wants-pet story. Bixby’s (aka Bat’s) mom is a veterinarian, and she brings home a baby skunk that he desperately wants to keep. But readers with autism may relate to chatter about itchy and uncomfortable clothes, sticking with routines, and only having friends who are grown-ups. “It does a wonderful job of describing the day-to-day experience of high-functioning children with ASD,” says an expert at the Child Mind Institute.",
     "age_range": [
       6,
@@ -347,23 +345,24 @@
       9,
       10
     ],
+    "language": [
+      null
+    ],
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
     ]
   },
   {
+    "id": 15,
     "topic": [
       "Autism"
     ],
-    "picture": "https://example.com/image1.jpg",
-    "link_to_good_reads": "https://www.goodreads.com/book/show/59427395-it-s-me-henry?from_search=true&from_srp=true&qid=b7n2ayv90b&rank=1",
-    "title": "It's Me, Henry!",
-    "language": [
-      "English"
+    "title": "It’s Me, Henry!",
+    "author": [
+      "Stéphanie Deslauriers"
     ],
-    "author": ["Stéphanie Deslauriers"],
-    "brief_synopsis": "Henry, a boy on the autism spectrum, forgets to raise his hand in school and offends his classmate Daisy by using her Latin plant name, Leucanthemum vulgare. While his fellow students sometimes find him odd or annoying, a field trip to the local botanical garden allows Henry's knowledge to shine and his classmates are wowed. 'This beautifully illustrated book normalizes the common challenges of neurodiverse children,' says an expert from the Child Mind Institute. 'It also highlights that a special interest can be a source of peer connection.'",
+    "brief_synopsis": "Henry, a boy on the autism spectrum, forgets to raise his hand in school and offends his classmate Daisy by using her Latin plant name, Leucanthemum vulgare. While his fellow students sometimes find him odd or annoying, a field trip to the local botanical garden allows Henry’s knowledge to shine and his classmates are wowed. “This beautifully illustrated book normalizes the common challenges of neurodiverse children,” says an expert from the Child Mind Institute. “It also highlights that a special interest can be a source of peer connection.”",
     "age_range": [
       4,
       5,
@@ -371,9 +370,1154 @@
       7,
       8
     ],
+    "language": [
+      null
+    ],
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 16,
+    "topic": [
+      "Body Image and Eating Disorders"
+    ],
+    "title": "Beautifully Me",
+    "author": [
+      "Nabela Noor"
+    ],
+    "brief_synopsis": "Diversity advocate and mom Nabela Noor writes a moving story about a young Bangladeshi girl who wonders if there is something wrong with the way she looks. Her worries begin after she hears her mom, dad, and sister being critical of their own weight. At dinner, the girl tells her family that she wants to go on a diet, too. Surprised by her comment, the family discusses what beauty means. “The story has a wonderful message about looking internally for beauty, watching the things we say in front of others, and sharing kindness with the world,” says an expert from the Child Mind Institute.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 17,
+    "topic": [
+      "Bullying"
+    ],
+    "title": "Am I a Bully?",
+    "author": [
+      "Hope Gilchrist"
+    ],
+    "brief_synopsis": "Toby makes his friends laugh when he teases a classmate over his weird clothes. He’s just trying to be funny and he isn’t beating anyone up, so he can’t be a bully — can he? This independently published paperback helps children recognize when teasing crosses the line into bullying.",
+    "age_range": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 18,
+    "topic": [
+      "Bullying"
+    ],
+    "title": "Chrysanthemum",
+    "author": [
+      "Kevin Henkes"
+    ],
+    "brief_synopsis": "This sweet story prepares kids for how short-lived teasing can be. On the first day of school, Victoria picks on Chrysanthemum because she has the same name as a flower, and Chrysanthemum wilts under the ridicule. Then the students learn that a teacher has a similar name, and all of a sudden Chrysanthemum is cool. ",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 19,
+    "topic": [
+      "Bullying"
+    ],
+    "title": "Tease Monster: A Book About Teasing vs. Bullying",
+    "author": [
+      "Julia Cook"
+    ],
+    "brief_synopsis": "Particularly good for an anxious or literal child, this rhyming book helps distinguish between teasing and bullying. “There are two types of teasing: the nice and the mean,” Cook writes. “You think that everyone’s against you, but it’s not like it seems.” Readers will learn strategies for responding to both good-natured teasing and bullying.",
+    "age_range": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 20,
+    "topic": [
+      "Depression"
+    ],
+    "title": "A Blue Kind of Day",
+    "author": [
+      "Rachel Tomlinson"
+    ],
+    "brief_synopsis": "Kids and parents alike will find helpful messin this story about a boy who feels too sad to get out of bed. The boy’s parents and younger sibling try to cheer him up with jokes, silly faces, and toys. But, ultimately, it takes a lot of waiting and love. “Young children will find it helpful to see imof someone who is sad being supported and not rushed to come out of sadness,” says an expert from the Child Mind Institute. “Plus, for parents, the story models how to validate and sit with discomfort instead of trying to fix the situation for their children.” An author’s note from Tomlinson, a psychologist, is directed to parents.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 21,
+    "topic": [
+      "Depression"
+    ],
+    "title": "Dark Cloud",
+    "author": [
+      "Anna Lazowski"
+    ],
+    "brief_synopsis": "Sadness and other big emotions take the form of a dark cloud, a ball of worries, and a swirl of fog in this lyrical book about childhood depression. The cloud usually follows as Abigail goes about her activities, but sometimes she’s able to leave it behind. At the beach, for instance, she traps it in a sandcastle and goes for ice cream. “The illustrations really help the story come to life and provide an easier way for young kids who may not have the vocabulary to describe their emotions,” says an expert from the Child Mind Institute. “The imof the character embracing her cloud and finding enough distance from it to see light and joy are heartwarming and provide hope.”",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 22,
+    "topic": [
+      "Depression"
+    ],
+    "title": "When Sadness Is at Your Door",
+    "author": [
+      "Eva Eland"
+    ],
+    "brief_synopsis": "Portraying sadness as a visitor that you shouldn’t be afraid of, this book makes it easier for kids to imagine the emotion as something outside themselves. When sadness arrives, the main character still reads, plays, and decides sadness doesn’t want to stay indoors. “The idea of continuing to do things with sadness is important,” says an expert from the Child Mind Institute. “It’s something that’s with the child, but doesn’t define them.”",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 23,
+    "topic": [
+      "Dyslexia"
+    ],
+    "title": "Aaron Slater, Illustrator",
+    "author": [
+      "Andrea Beaty"
+    ],
+    "brief_synopsis": "In this best-selling rhyming book, Aaron wants to be a storyteller, but he’s having trouble putting a single word down on a piece of paper. Then he realizes his strength is his imagination. “The book shows that reading struggles are not rooted in lack of interest, motivation, or intelligence,” says an expert from the Child Mind Institute. “You can feel the character’s pain and joy as he finds a way to express himself.” This book is printed in a dyslexia-friendly font.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 24,
+    "topic": [
+      "Dyslexia"
+    ],
+    "title": "Back to Front and Upside Down!",
+    "author": [
+      "Claire Alexander"
+    ],
+    "brief_synopsis": "This sweet picture book follows Stan, a puppy, and his animal classmates. Stan’s letters come out “back to front and upside down, and some didn’t look like letters at all,” but he’s afraid to ask his teacher for help because he thinks the other kids will laugh at him. When he finally does, he learns that with help — and lots of practice — he can succeed. “The book sends the positive message that things will get better with a bit of hard work,” says an expert at the Child Mind Institute.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 25,
+    "topic": [
+      "Dyslexia"
+    ],
+    "title": "Ben & Emma’s Big Hit",
+    "author": [
+      "Gavin Newsom with Ruby Shamir"
+    ],
+    "brief_synopsis": "Ben, a star baseball player, is frustrated that he’s not learning to read as easily as his classmates, especially Emma, who carries around big books. But everything isn’t as it seems. “A sweet and simple story that provides encouragement and normalization to struggling readers, with an emphasis on reinforcing effort, practice, and hard work,” says an expert from the Child Mind Institute. One of the best parts: the letter at the end from California governor and the book’s author, Gavin Newsom, who calls his dyslexia a gift.",
+    "age_range": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 26,
+    "topic": [
+      "Feelings/Emotions"
+    ],
+    "title": "Dragons on the Inside and Other Big Feelings",
+    "author": [
+      "Valerie Coulman"
+    ],
+    "brief_synopsis": "Especially useful for kids who have trouble verbalizing their emotions, this story demonstrates that feelings aren’t always visible to others. During various stressful situations, ranging from playing goalie for the first time to starting at a new school, the book illustrates the wild swings of emotions a boy experiences. One minute there’s a roller coaster screaming through his ribs, the next he’s in a cave full of bats. “It also provides great examples of when those emotions may surface and models calming strategies,” says an expert from the Child Mind Institute.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 27,
+    "topic": [
+      "Feelings/Emotions"
+    ],
+    "title": "I Want to Be Mad for a While!",
+    "author": [
+      "Barney Saltzberg"
+    ],
+    "brief_synopsis": "This short rhyming book with expressive cartoon-like illustrations will help validate the big feelings of toddlers and preschoolers. A young cat, who doesn’t want to be cheered up, questions “Why do I have to be happy?” before insisting that he wants to be mad for a while and throwing himself on the floor. “The book includes great analogies, such as describing anger as ‘feeling like a crocodile,’” says an expert from the Child Mind Institute. “I also appreciated that it’s not about getting rid of the emotion, but managing it with strategies like alone time and talking to someone.”",
+    "age_range": [
+      3,
+      4,
+      5
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 28,
+    "topic": [
+      "Feelings/Emotions"
+    ],
+    "title": "In My Heart: A Book of Feelings",
+    "author": [
+      "Jo Witek"
+    ],
+    "brief_synopsis": "In this sturdy book with beautiful heart-shaped cutouts, a girl explains that her heart is full of feelings. Each spread focuses on a different emotion, such as happiness, bravery, and fear. The descriptions of the feelings are particularly engaging: “Some days my heart feels as heavy as an elephant. There’s a dark cloud over my head and tears fall like rain. This is when my heart is sad.”",
+    "age_range": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 3,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 29,
+    "topic": [
+      "Feelings/Emotions"
+    ],
+    "title": "My Many Colored Days",
+    "author": [
+      "Dr. Seuss"
+    ],
+    "brief_synopsis": "This little-known Dr. Seuss story gives young kids a groundwork for describing their feelings, normalizing the experience of having multiple emotions. Bonus: It will also help toddlers and preschoolers learn colors.",
+    "age_range": [
+      3,
+      4,
+      5
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 30,
+    "topic": [
+      "Feelings/Emotions"
+    ],
+    "title": "Stop and Smell the Cookies",
+    "author": [
+      "Gibson Frazier"
+    ],
+    "brief_synopsis": "This must-read for children who have trouble with impulse control highlights a clever technique to help manage behavior. Dash says he knows right from wrong, but that doesn’t stop him from blowing out the candles on his friend’s birthday cake and breaking his grandma’s cookie platter. “In the story, Dash learns a grounding exercise that helps him stop and relax before he takes action,” says an expert from the Child Mind Institute. When Dash is tempted to fly a paper airplane in class, “the reader is able to see the difference that the grounding exercise makes with his choice.” Bonus: Dash’s dad takes him to fly paper airplanes after school, highlighting that there’s an appropriate place for the behavior.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 31,
+    "topic": [
+      "Feelings/Emotions"
+    ],
+    "title": "Tough Guys (Have Feelings Too)",
+    "author": [
+      "Keith Negley"
+    ],
+    "brief_synopsis": "The witty illustrations in this book may be even more powerful than the text. Kids will see various “tough guys” showing emotion. An astronaut in space holds a picture of his family. A wrestler cries in the locker room. A tattooed biker regrets running over a squirrel. The final image of a father and son is particularly heartwarming.",
+    "age_range": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 32,
+    "topic": [
+      "Feelings/EmotionsGender Roles"
+    ],
+    "title": "When Sophie Gets Angry — Really, Really Angry…",
+    "author": [
+      "Molly Bang"
+    ],
+    "brief_synopsis": "When Sophie’s sister swipes her stuffed animal, she feels ready to explode “like a volcano.” Vibrant illustrations depict Sophie kicking, screaming, and even roaring. But then the color palette of the illustrations changes as Sophie cries a little and lets the outdoors comfort her. “This book normalizes anger and shows that it doesn’t last forever,” says an expert from the Child Mind Institute.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 3,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 33,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "Art With Heart Presents: Draw It Out",
+    "author": [
+      "Steffanie Lorig and Rosalie Frankel"
+    ],
+    "brief_synopsis": "This 40-plus-page activity book uses writing and drawing to help kids work through their emotions. Activities include creating a “Circle of Strength” and using a calendar to express feelings on different days. “I use this book in therapy for grieving children and find it to be extremely effective,” says an expert at the Child Mind Institute.",
+    "age_range": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 34,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "I Miss You: A First Look at Death",
+    "author": [
+      "Pat Thomas"
+    ],
+    "brief_synopsis": "This book explains, in realistic but reassuring language, why people die and how hard it can be to say goodbye. The real genius: “What About You?” boxes scattered throughout the book that contain questions you can ask children. “I particularly like that it normalizes the sad feelings around death,” says an expert at the Child Mind Institute.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 35,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "The Invisible Leash",
+    "author": [
+      "Patrice Karst"
+    ],
+    "brief_synopsis": " When our pets aren't with us anymore, an Invisible Leash connects our hearts to each other. Forever.  That's what Zack's friend Emily tells him after his dog dies. Zack doesn't believe it. He only believes in what he can see. But on an enlightening journey through their neighborhood—and through his grief—he comes to feel the comforting tug of the Invisible Leash. And it feels like love .",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 36,
+    "topic": [
+      null
+    ],
+    "title": "The Boy Who Cried Bigfoot!",
+    "author": [
+      "Scott Magoon"
+    ],
+    "brief_synopsis": "This clever twist on “The Boy Who Cried Wolf” is told from the point of view of an unexpected narrator and, through snappy text and lighthearted illustrations, demonstrates the value of telling the truth, the importance of establishing trust, and (of course!) the possibility that a beast you created to get attention can become a real-life friend. Includes audio!",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": null,
+    "who_recommended": [
+      null
+    ]
+  },
+  {
+    "id": 37,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "The Invisible String",
+    "author": [
+      "Patrice Karst"
+    ],
+    "brief_synopsis": "his bestselling picture book introduces little ones to the concept of an invisible link between people, even when they’re separated. In the story, a mom explains to her children that there is a “very special string made of love” that connects them to everyone they love. “When you’re at school and you miss me, your love travels all the way along the string until I feel a tug on my heart,” Karst writes. The story continues with explaining how far the string reaches — to a submarine captain in the ocean, a dancer in France, and even to a beloved relative in heaven.",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 3,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 38,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "One Wave at a Time: A Story About Grief and Healing",
+    "author": [
+      "Holly Thompson"
+    ],
+    "brief_synopsis": "After Kai’s dad died, the boy’s grief manifests itself in many ways, from crying to throwing a fit to feeling flat and robotic. “The story line shows the change from struggling to recovering, and emphasizes using support networks,” says an expert at the Child Mind Institute.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 39,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "Pumpkin and Me (Peque y yo)",
+    "author": [
+      "Alicia Acosta"
+    ],
+    "brief_synopsis": "In this tender tale about the loss of a pet, a black cloud forms over the head of a girl whose beloved dog, Pumpkin, has recently died. She cries so hard that she feels like there’s soap in her eyes and an octopus has wrapped itself around her heart. Then she dreams that Pumpkin licks the soap from her eyes and barks at the octopus. That’s when she realizes that Pumpkin will always be with her. “This book ties physical symptoms to grief and discusses always having the memories,” says an expert at the Child Mind Institute. ",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      "English",
+      "Spanish"
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 40,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "Rain Before Rainbows",
+    "author": [
+      "Smriti Prasadam-Halls"
+    ],
+    "brief_synopsis": "Following a fire at their castle home, a girl in a red cape and her fox navigate an arduous and frightening journey before reaching a bright future. Stunning illustrations and short, rhyming text convey a powerful lesson. “For children at different stof grief, this book includes a message of hope that after the pain, things will get better,” says an expert from the Child Mind Institute.",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 41,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "When Dinosaurs Die: A Guide to Understanding Death",
+    "author": [
+      "Laurie Krasny Brown and Marc Brown"
+    ],
+    "brief_synopsis": "With simple language and sweet drawings that aren’t too graphic, this picture book addresses many questions children have about death, how people say goodbye, and how we remember people we’ve lost. The best section focuses on feelings about death and encourkids to talk about them, says an expert at the Child Mind Institute. ",
+    "age_range": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 42,
+    "topic": [
+      "Identity"
+    ],
+    "title": "Red: A Crayon’s Story",
+    "author": [
+      "Michael Hall"
+    ],
+    "brief_synopsis": "Your child will pick up on the problem right away: A blue crayon is mistakenly labeled red. He can’t do what everyone expects of him (and other crayons give him all kinds of advice about how to be a better red) until one day he meets a purple crayon who sees his true color. Then he soars. “The message about identity is great,” says an expert at the Child Mind Institute.",
+    "age_range": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 43,
+    "topic": [
+      "Neglect"
+    ],
+    "title": "Home for a While",
+    "author": [
+      "Lauren H. Kerstain"
+    ],
+    "brief_synopsis": "A licensed social worker crafts a compelling and authentic story about what it feels like for a child who has lived in a lot of foster homes. When Calvin moves in with Maggie, he doesn’t want to unpack his suitcase or get a goodnight hug. He accidentally breaks things multiple times, testing Maggie’s patience. But she always responds with kindness and wise advice. The ending is heartwarming. “This book provides an example of building a warm relationship with a caregiver while honoring a relationship with a biological parent,” says an expert from the Child Mind Institute.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 44,
+    "topic": [
+      "Neglect"
+    ],
+    "title": "Somebody Cares: A Guide for Kids Who Have Experienced Neglect",
+    "author": [
+      "Susan Farber Straus",
+      "PhD"
+    ],
+    "brief_synopsis": "This book puts into words a lot of what kids who experienced neglect feel but have a hard time expressing. A particularly poignant passage: “I tried to be strong and brave, but often I was worried and scared. I tried to do the best with what I had, but sometimes I needed more.” Eventually, a social worker and therapist intervene, and the story ends sweetly. “It’s great that the illustrations show diverse families,” adds an expert at the Child Mind Institute.",
+    "age_range": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 45,
+    "topic": [
+      "Neglect"
+    ],
+    "title": "Understanding Neglect",
+    "author": [
+      "Beth Richey and Paula Wood"
+    ],
+    "brief_synopsis": "In a calm, reassuring tone, two trauma therapists explain the things that children should be able to count on from the grown-ups they belong to —basic needs, such as food, a home, schooling, safety, and love. Sometimes the adults can’t provide these things, the book notes, and the kids need to be cared from by someone else. Soothing illustrations of animal characters help put children at ease, and they are assured that they deserve to have everything they need to be healthy and happy. “Using direct, child-friendly language, the book is particularly helpful for kids who see Children Protective Service workers or lawyers,” says an expert from the Child Mind Institute.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 46,
+    "topic": [
+      "Self-Esteem"
+    ],
+    "title": "What I Like About Me!",
+    "author": [
+      "Allia Zobel Nolan"
+    ],
+    "brief_synopsis": "In this simple book for young children, students at school celebrate their diversity — from braces to glasses, curly hair to big feet. “It provides a very positive message about the benefit of those differences,” says an expert at the Child Mind Institute.",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 47,
+    "topic": [
+      "Selective Mutism"
+    ],
+    "title": "Bravery Grows",
+    "author": [
+      "Dr. Melissa Giglio and Daisy Geddes"
+    ],
+    "brief_synopsis": "This sweet, rhymed story is about a little girl who is lively and boisterous at home but freezes up and can’t speak when she’s at the playground or at school. Her parents encourage her to try “brave talking” and she practices until her confidence swells and her words flow. “It introduces facing fears by taking small steps and illustrates how it takes practice to build brave muscles,” says a selective mutism expert from the Child Mind Institute. ",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 48,
+    "topic": [
+      "Selective Mutism"
+    ],
+    "title": "Lola’s Words Disappeared",
+    "author": [
+      "Elaheh Bos"
+    ],
+    "brief_synopsis": "This book helps readers understand that kids can be super verbal at home, but, in public, words seem to get stuck. Lola, the main character, couldn’t say a word at school. But a gradual approach, starting by practicing with a school friend at home, enabled her to find her voice. ",
+    "age_range": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 49,
+    "topic": [
+      "Selective Mutism"
+    ],
+    "title": "Talia Turtle’s Brave Bubbles",
+    "author": [
+      "Julie Mensh Graham"
+    ],
+    "brief_synopsis": "This tells the story of a turtle with selective mutism whose friends are patient and take the time to interact with her without putting pressure on her to speak. “This gives her a chance to relax and get comfortable enough to use her brave voice,” notes a Child Mind Institute expert. “Helpful strategies for kids withSM, as well as for their family and friends, are woven into the narrative.”",
+    "age_range": "3+",
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 50,
+    "topic": [
+      "Trauma"
+    ],
+    "title": "A Terrible Thing Happened: A Story for Children Who Have Witnessed Violence or Trauma",
+    "author": [
+      "Margaret M. Holmes"
+    ],
+    "brief_synopsis": "When Sherman, a raccoon, saw something that upset him, he became nervous, didn’t sleep well, and felt sad. “Through Sherman, the book explains the symptoms ofpost-traumatic stress disorder in simple terms that young children can understand,” says an expert at the Child Mind Institute. “The book also covers the importance of talking about traumatic things to help feel better.” Another plus: The story doesn’t specify exactly what happened to Sherman, so the book could be useful in many situations. ",
+    "age_range": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 51,
+    "topic": [
+      "Trauma"
+    ],
+    "title": "When a Grown-Up You Love Hurts You",
+    "author": [
+      "Beth Richey and Paula Wood"
+    ],
+    "brief_synopsis": "Two social workers team up on this book for children who have experienced physical abuse. Using cute illustrations of animals, the book explains that it’s not okay for a grown-up to hurt a child, no matter what the child has done. It also acknowledges that children may have conflicting feelings about the person who hurt them. “The book uses direct and child-friendly language,” says an expert from the Child Mind Institute. “It also does a good job explaining what abuse means.”",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Child Mind Institute"
+    ]
+  },
+  {
+    "id": 52,
+    "topic": [
+      "Depression"
+    ],
+    "title": "What's Up, Maloo?",
+    "author": [
+      "Geneviève Godbout"
+    ],
+    "brief_synopsis": "Maloo the kangaroo has lost his hop. Can his friends help him find it again? This sweet picture book explores the idea of sadness and the importance of friendship through ups and downs.",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 53,
+    "topic": [
+      "Friendship"
+    ],
+    "title": "The Pink Umbrella ",
+    "author": [
+      "Amélie Callot"
+    ],
+    "brief_synopsis": "When it's bright outside, Adele is the heart of her community, greeting everyone who comes into her café with arms wide open. But when it rains, she can't help but stay at home inside, under the covers. Because Adele takes such good care of her friends and customers, one of them decides to take care of her too.",
+    "age_range": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 54,
+    "topic": [
+      "Grief and Loss/Empathy"
+    ],
+    "title": "The Rabbit Listened",
+    "author": [
+      "Cori Doerrfeld"
+    ],
+    "brief_synopsis": "When something sad happens, Taylor doesn't know where to turn. All the animals are sure they have the answer. The chicken wants to talk it out, and the bear thinks Taylor should get angry. Then the rabbit arrives. All the rabbit does is listen . . . which is just what Taylor needs.",
+    "age_range": [
+      3,
+      4,
+      5
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 2,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 55,
+    "topic": [
+      "Grief and Loss"
+    ],
+    "title": "Bug in a Vacuum",
+    "author": [
+      "Melanie Watt"
+    ],
+    "brief_synopsis": "A bug flies through an open door into a house, through a bathroom, across a kitchen and bedroom and into a living room . . . where its entire life changes with the switch of a button. Sucked into the void of a vacuum bag, this one little bug moves through denial, bargaining, anger, despair and eventually acceptance — the five stof grief — as it comes to terms with its fate. Will there be a light at the end of the tunnel? Will there be dust bunnies in the void? A funny, suspenseful and poignant look at the travails of a bug trapped in a vacuum.",
+    "age_range": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 56,
+    "topic": [
+      "Anxiety/Worry"
+    ],
+    "title": "Noni is Nervous",
+    "author": [
+      "Genevieve Cote"
+    ],
+    "brief_synopsis": "A unique hardcover picture book for two to five year olds, this is the story of a lovely little girl who is nervous about many things. Noni finds a way to control her nerves and work through her anxiety, making life much more bearable for everyone!",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 57,
+    "topic": [
+      "Anxiety/Worry"
+    ],
+    "title": "Grumpy Monkey Party Time!",
+    "author": [
+      "Suzanne Lang"
+    ],
+    "brief_synopsis": "Have you ever been a little anxious about going to a party? Jim Panzee feels that. Porcupine is having a big party, and according to Jim's best friend Norman, there will be--gulp--dancing. Jim can DEFINITELY not dance. When he tells his friends, they all try to teach him cool moves--surely that's the only reason Jim isn't excited about this party!",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 58,
+    "topic": [
+      "Uncertainty"
+    ],
+    "title": "Come With Me",
+    "author": [
+      "Holly M. McGhee"
+    ],
+    "brief_synopsis": "When the news reports are flooded with tales of hatred and fear, a girl asks her papa what she can do to make the world a better place. “Come with me,” he says. Hand-in-hand, they walk to the subway, tipping their hats to those they meet. The next day, the girl asks her mama what she can do—her mama says, “Come with me,” and together they set out for the grocery, because one person doesn’t represent an entire race or the people of a land. After dinner that night, the little girl asks if she can do something of her own—walk the dog . . . and her parents let her go. “Come with me,” the girl tells the boy across the hall. Walking together, one step at a time, the girl and the boy begin to see that as small and insignificant as their part may seem, it matters to the world. In this lyrical and timely story, author Holly M. McGhee and illustrator Pascal Lemaître champion the power of kindness, bravery, and friendship in the face of uncertainty.",
+    "age_range": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 59,
+    "topic": [
+      "Friendship"
+    ],
+    "title": "The Invisible Bear ",
+    "author": [
+      "Cécile Metzger"
+    ],
+    "brief_synopsis": "A simple act of kindness brings two unlikely friends together in this profound picture book about the transformative power of friendship.",
+    "age_range": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 60,
+    "topic": [
+      "EmotionsSadnessGender Roles"
+    ],
+    "title": "Big Boys Cry",
+    "author": [
+      "Jonty Howley"
+    ],
+    "brief_synopsis": "It's Levi's first day at a new school, and he's scared. His father tries to comfort Levi by telling him Big boys don't cry. Though the father immediately understands his misstep, he can't find the words to comfort his son, and Levi leaves for school, still in need of reassurance.Fortunately, along his walk to school, Levi sees instance after instance of grown men openly expressing their sadness and fear. His learned mantra, Big boys don't cry, slowly weakens, and by the time he's at school he releases a tear. Once he's there, things aren't so bad after all, and on his walk home he sees everyone he's encountered earlier, feeling better now that they expressed their emotions. Upon his arrival home, he finds his father waiting for him on their porch, tears in his eyes. His father is able to admit that he was scared and the two embrace, closer than before.Jonty Howley's gorgeous debut paints the world we wish existed for our boys, and offers a path there! This story is the truest interpretation of the notion that we should let boys be boys: let them express the full range of their emotions, vulnerable parts and all!",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
+    ]
+  },
+  {
+    "id": 61,
+    "topic": [
+      "Anger"
+    ],
+    "title": "Swarm of Bees",
+    "author": [
+      "Lemony Snicket"
+    ],
+    "brief_synopsis": "Swarm of Bees! Swarm of Bees! You are SO angry! What will you do?Watch out! A mischievous boy has unleashed an angry swarm of bees! The result is a zany gallop through a charming town where readers will encounter evidence of some bad behavior, some frenzied anger and thankfully, a hug and some spaghetti.It can feel good to be angry. It can feel better to stop.",
+    "age_range": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "language": [
+      null
+    ],
+    "number_of_times_recommended": 1,
+    "who_recommended": [
+      "Penguin Random House"
     ]
   }
 ]
