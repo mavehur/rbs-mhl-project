@@ -22,3 +22,7 @@ body {
     padding-top: 0.5em;
     padding-bottom: 1em;
 }
+
+div.container {
+        width: 80%;
+}
