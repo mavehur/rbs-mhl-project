@@ -10,7 +10,7 @@ function format(d) {
 }
 
 $(document).ready(function () {
-    fetch('https://raw.githubusercontent.com/mavehur/rbs-mhl.github.io/main/src/assets/data/books.json')
+    fetch('https://raw.githubusercontent.com/mavehur/rbs-mhl.github.io/main/docs/assets/data/books.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
