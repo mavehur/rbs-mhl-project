@@ -1,7 +1,6 @@
 function format(d) {
     return (
         '<dl>' +
-        '<dt>Brief Synopsis:</dt>' +
         '<dd>' +
         d.brief_synopsis +
         '</dd>' +
