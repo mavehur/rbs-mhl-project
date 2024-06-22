@@ -39,8 +39,13 @@ $(document).ready(function () {
                         }
                     },
                     {
-                        data: 'title', render: function (data, type, row) {
-                            return data ? data + ' ' + '<a href="' + row['link_to_good_reads'] + '" target="_blank">' + '<img src="https://lh3.googleusercontent.com/d/11xaDqi2Q3MfqWb18vAlJ_VB8Fy1eQ0_1?authuser=0" width=20>' : '';
+                        data: 'title',
+                        render: function (data, type, row) {
+                            if (row['link_to_good_reads'] && row['link_to_good_reads'].startsWith('https')) {
+                                return data ? data + ' ' + '<a href="' + row['link_to_good_reads'] + '" target="_blank">' + '<img src="https://lh3.googleusercontent.com/d/11xaDqi2Q3MfqWb18vAlJ_VB8Fy1eQ0_1?authuser=0" width=20>' + '</a>' : data;
+                            } else {
+                                return data;
+                            }
                         }
                     },
                     {

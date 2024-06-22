@@ -2,11 +2,12 @@
   {
     "id": 1,
     "topic": [
-      "Boundaries "
+      "Boundaries"
     ],
     "title": "I Said No! A Kid-to-Kid Guide to Keeping Private Parts Private",
     "author": [
-      "Zach and Kimberly King"
+      "Zach King",
+      "Kimberly King"
     ],
     "brief_synopsis": "This clever book helps kids understand boundaries, using “red flag” and “green flag” terminology. “It reviews a lot of classic scenarios in simple language,” says an expert from the Child Mind Institute.",
     "age_range": [
@@ -22,7 +23,8 @@
     "number_of_times_recommended": 2,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/en/book/show/5621363"
   },
   {
     "id": 2,
@@ -48,7 +50,8 @@
     "number_of_times_recommended": 2,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/661896.Cory_Stories?from_search=true&from_srp=true&qid=mSC4O7WmPl&rank=1"
   },
   {
     "id": 3,
@@ -73,7 +76,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/50683899-my-life-with-adhd?from_search=true&from_srp=true&qid=3ZhPcNROnM&rank=1"
   },
   {
     "id": 4,
@@ -82,7 +86,8 @@
     ],
     "title": "A Case of the Zaps",
     "author": [
-      "Alex Boniello and April Lavalle"
+      "Alex Boniello",
+      "April Lavalle"
     ],
     "brief_synopsis": "A story of a kid robot who sometimes gets “the zaps” provides a clever way to introduce the concept of anxiety to kids, as well as ways to manage it. “This playful story is perfect for families looking to start open conversations about anxiety with their children while also normalizing the sensation of other emotions that come along with it,” says an expert from the Child Mind Institute.",
     "age_range": [
@@ -98,7 +103,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/59863734-a-case-of-the-zaps?ref=nav_sb_ss_1_18"
   },
   {
     "id": 5,
@@ -124,7 +130,8 @@
     "number_of_times_recommended": 2,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/29892594-don-t-feed-the-worrybug?from_search=true&from_srp=true&qid=CKmLgp38AH&rank=1"
   },
   {
     "id": 6,
@@ -149,7 +156,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/60740653-ellie-on-the-mat?from_search=true&from_srp=true&qid=le1jwI0NRK&rank=1"
   },
   {
     "id": 7,
@@ -158,7 +166,8 @@
     ],
     "title": "Hattie Harmony: Worry Detective",
     "author": [
-      "Elizabeth Olsen and Robbie Arnett"
+      "Elizabeth Olsen",
+      "Robbie Arnett"
     ],
     "brief_synopsis": "In this helpful story to read before the first day of school, a cat detective gives her classmates smart advice about how to overcome their anxieties. For instance, when a fellow student tells Hattie that he’s nervous about standing up in front of the class, she pulls a squishy ball out of her Worry Detective Tool Belt. Hattie uses her toolkit to playfully demonstrate useful strategies like “movement activities, tensing and releasing muscles, coping self-talk, and mindful breathing,” says an expert from the Child Mind Institute.",
     "age_range": [
@@ -174,7 +183,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/60245191-hattie-harmony?from_search=true&from_srp=true&qid=8Rew8KgtvK&rank=1"
   },
   {
     "id": 8,
@@ -199,7 +209,8 @@
     "number_of_times_recommended": 2,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/39653385-hector-s-favorite-place?from_search=true&from_srp=true&qid=d9tsGOpSwq&rank=1"
   },
   {
     "id": 9,
@@ -224,7 +235,8 @@
     "number_of_times_recommended": 2,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/39315878-how-big-are-your-worries-little-bear?from_search=true&from_srp=true&qid=C7Kw3rjIFl&rank=1"
   },
   {
     "id": 10,
@@ -249,7 +261,8 @@
     "number_of_times_recommended": 2,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/38749455-pilar-s-worries?from_search=true&from_srp=true&qid=Kql7V0qWvf&rank=1"
   },
   {
     "id": 11,
@@ -274,7 +287,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/42972052-ruby-finds-a-worry?from_search=true&from_srp=true&qid=zPX96yOubU&rank=1"
   },
   {
     "id": 12,
@@ -301,7 +315,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/333016.What_to_Do_When_You_Worry_Too_Much?from_search=true&from_srp=true&qid=PFhY7Lj2hN&rank=1"
   },
   {
     "id": 13,
@@ -310,7 +325,8 @@
     ],
     "title": "Armond Goes to a Party: A Book About Asperger’s and Friendship",
     "author": [
-      "Nancy Carlson and Armond Isaak"
+      "Nancy Carlson",
+      "Armond Isaak"
     ],
     "brief_synopsis": "Co-written by a boy with Asperger’s, this picture book “gives a simple understanding of why children with Asperger’s struggle to attend parties, and talks about the importance of learning flexibility,” says an expert at the Child Mind Institute. (For more about the term Asperger’s and its relationship to autism, see our guide to autism terminology.) Readers may relate to Armond’s fear of balloons popping and not being able to think of anything to say. In the end, Armond admits to his mom that the party was hard, but he’s glad he went. ",
     "age_range": [
@@ -326,7 +342,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/18527641-armond-goes-to-a-party?from_search=true&from_srp=true&qid=qQDPPHFyWa&rank=1"
   },
   {
     "id": 14,
@@ -351,7 +368,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/30653731-a-boy-called-bat?from_search=true&from_srp=true&qid=sRsB2N8EL9&rank=1"
   },
   {
     "id": 15,
@@ -376,7 +394,8 @@
     "number_of_times_recommended": 1,
     "who_recommended": [
       "Child Mind Institute"
-    ]
+    ],
+    "link_to_good_reads": "https://www.goodreads.com/book/show/59427395-it-s-me-henry?from_search=true&from_srp=true&qid=b7n2ayv90b&rank=1"
   },
   {
     "id": 16,
@@ -611,7 +630,8 @@
     ],
     "title": "Ben & Emma’s Big Hit",
     "author": [
-      "Gavin Newsom with Ruby Shamir"
+      "Gavin Newsom",
+      "Ruby Shamir"
     ],
     "brief_synopsis": "Ben, a star baseball player, is frustrated that he’s not learning to read as easily as his classmates, especially Emma, who carries around big books. But everything isn’t as it seems. “A sweet and simple story that provides encouragement and normalization to struggling readers, with an emphasis on reinforcing effort, practice, and hard work,” says an expert from the Child Mind Institute. One of the best parts: the letter at the end from California governor and the book’s author, Gavin Newsom, who calls his dyslexia a gift.",
     "age_range": [
@@ -776,7 +796,8 @@
   {
     "id": 32,
     "topic": [
-      "Feelings/EmotionsGender Roles"
+      "Feelings/Emotions",
+      "Gender Roles"
     ],
     "title": "When Sophie Gets Angry — Really, Really Angry…",
     "author": [
@@ -805,7 +826,8 @@
     ],
     "title": "Art With Heart Presents: Draw It Out",
     "author": [
-      "Steffanie Lorig and Rosalie Frankel"
+      "Steffanie Lorig",
+      "Rosalie Frankel"
     ],
     "brief_synopsis": "This 40-plus-page activity book uses writing and drawing to help kids work through their emotions. Activities include creating a “Circle of Strength” and using a calendar to express feelings on different days. “I use this book in therapy for grieving children and find it to be extremely effective,” says an expert at the Child Mind Institute.",
     "age_range": [
@@ -1008,7 +1030,8 @@
     ],
     "title": "When Dinosaurs Die: A Guide to Understanding Death",
     "author": [
-      "Laurie Krasny Brown and Marc Brown"
+      "Laurie Krasny Brown",
+      "Marc Brown"
     ],
     "brief_synopsis": "With simple language and sweet drawings that aren’t too graphic, this picture book addresses many questions children have about death, how people say goodbye, and how we remember people we’ve lost. The best section focuses on feelings about death and encourkids to talk about them, says an expert at the Child Mind Institute. ",
     "age_range": [
@@ -1085,8 +1108,7 @@
     ],
     "title": "Somebody Cares: A Guide for Kids Who Have Experienced Neglect",
     "author": [
-      "Susan Farber Straus",
-      "PhD"
+      "Susan Farber Straus"
     ],
     "brief_synopsis": "This book puts into words a lot of what kids who experienced neglect feel but have a hard time expressing. A particularly poignant passage: “I tried to be strong and brave, but often I was worried and scared. I tried to do the best with what I had, but sometimes I needed more.” Eventually, a social worker and therapist intervene, and the story ends sweetly. “It’s great that the illustrations show diverse families,” adds an expert at the Child Mind Institute.",
     "age_range": [
@@ -1326,7 +1348,8 @@
   {
     "id": 54,
     "topic": [
-      "Grief and Loss/Empathy"
+      "Grief and Loss",
+      "Empathy"
     ],
     "title": "The Rabbit Listened",
     "author": [
@@ -1473,7 +1496,9 @@
   {
     "id": 60,
     "topic": [
-      "EmotionsSadnessGender Roles"
+      "Emotions",
+      "Sadness",
+      "Gender Roles"
     ],
     "title": "Big Boys Cry",
     "author": [
